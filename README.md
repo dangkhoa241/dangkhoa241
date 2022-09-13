@@ -31,10 +31,10 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 </p>
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aliashfak178">
+<a href="https://github.com/dangkhoa241">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliashfak178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliashfak178&layout=compact&langs_count=8&theme=algolia"/>
 </a>
