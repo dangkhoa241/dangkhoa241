@@ -11,13 +11,12 @@
 
 
 
-- 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
-- 🌱 I’m currently learning React JS
+- 🔭 I am a fresh graduate majoring in information technology from the HCM City - University of Science. I am a self-assured, humor and exuberant person. I am curious and passionate about technology.
+- 🌱 I’m currently learning React JS, NodeJS
 - 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
+- 💬 Ask me about **SQL** **MongoDB** **Express** **React JS** **Node JS**
 - 📫 How to reach me: dangkhoa2401bg@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+
 
 
 <h3 align="left">Languages and Tools:</h3>
