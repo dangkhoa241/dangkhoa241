@@ -5,7 +5,7 @@
   
 </p>
 
-# Hi guys 👋  I'm Ashfaque Ali
+# Hi guys 👋  I'm Khoa
 
 
 
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning React JS
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: aliashfak178@gmail.com
+- 📫 How to reach me: dangkhoa2401bg@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
@@ -30,4 +30,12 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
+</p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aliashfak178">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliashfak178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliashfak178&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
