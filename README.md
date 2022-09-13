@@ -29,6 +29,16 @@
   
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>        <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>         <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>        <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>                  <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   
+> ### <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="22" width="35">**Connect with me**
+
+<p></p>
+
+[![Facebook](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/quanphamluong)](https://facebook.com/quanphamluong)
+[![GitHub](https://img.shields.io/badge/-quankhs-success?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](https://github.com/quankhs)
+[![Gmail](https://img.shields.io/badge/-quanphamluong-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](mailto:quanphamluong@gmail.com)
+[![Linkedin: quankhs](https://img.shields.io/badge/-quankhs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quankhs/)](https://www.linkedin.com/in/quankhs/)
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
   
 </p>
