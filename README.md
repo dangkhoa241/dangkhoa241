@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I am a fresh graduate majoring in information technology from the HCM City - University of Science. I am a self-assured, humor and exuberant person. I am curious and passionate about technology.
+- 🔭 I am a fresh graduate majoring in information system at the Faculty of Information Technology, HCM City - University of Science. I am a self-assured, humor and exuberant person. I am curious and passionate about technology.
 - 🌱 I’m currently learning React JS, NodeJS
 - 👯 open source contributor
 - 💬 Ask me about **SQL** **MongoDB** **Express** **React JS** **Node JS**
