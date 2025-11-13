@@ -38,7 +38,7 @@
 [![Facebook](https://img.shields.io/badge/-dangkhoa241-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/dangkhoa241)](https://facebook.com/dangkhoa241)
 [![GitHub](https://img.shields.io/badge/-dangkhoa241-success?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/in/dangkhoa241/)](https://github.com/dangkhoa241)
 [![Gmail](https://img.shields.io/badge/-dangkhoa2401bg-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/dangkhoa241/)](mailto:dangkhoa2401bg@gmail.com)
-[![Linkedin: quankhs](https://img.shields.io/badge/-dangkhoa241-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dangkhoa241/)](https://www.linkedin.com/in/dangkhoa241)
+[![Linkedin](https://img.shields.io/badge/-dangkhoa241-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dangkhoa241/)](https://www.linkedin.com/in/dangkhoa241)
 
 
 
