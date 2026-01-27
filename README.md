@@ -5,16 +5,15 @@
   
 </p>
 
-# Hi guys 👋  I'm Khoa
+# Hi 👋 I'm Khoa
 
+I'm a Computer Science graduate student and software engineer with experience in full-stack and backend development.  
+I enjoy building scalable web applications, working with databases, and solving real-world problems through clean, efficient code.
 
-
-
-
-- 🔭 I am a fresh graduate majoring in information system at the Faculty of Information Technology, HCM City - University of Science. I am a self-assured, humor and exuberant person. I am curious and passionate about technology.
-- 🌱 I’m currently learning React JS, NodeJS
-- 👯 open source contributor
-- 💬 Ask me about **SQL** **MongoDB** **Express** **React JS** **Node JS**
+- 💻 Tech: Java, JavaScript, Python, React, Node.js, Express, SQL, PostgreSQL, MongoDB  
+- 🧠 Interests: Backend systems, databases, APIs, performance optimization  
+- 🌱 Currently learning: Advanced backend design, distributed systems  
+- 🔍 Open to: Software Engineering internships and full-time roles
 - 📫 How to reach me: dangkhoa2401bg@gmail.com
 
 
