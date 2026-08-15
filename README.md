@@ -7,13 +7,14 @@
 
 # Hi 👋 I'm Khoa
 
-I'm a Computer Science graduate student and software engineer with experience in full-stack and backend development.  
-I enjoy building scalable web applications, working with databases, and solving real-world problems through clean, efficient code.
+I'm an MS Computer Science student at the University of the Pacific and a software engineer with experience in full-stack development, databases, and AI-powered applications.
+I enjoy building scalable web systems and data-driven tools, from backend APIs to LLM-based systems.
 
-- 💻 Tech: Java, JavaScript, Python, React, Node.js, Express, SQL, PostgreSQL, MongoDB  
-- 🧠 Interests: Backend systems, databases, APIs, performance optimization  
-- 🌱 Currently learning: Advanced backend design, distributed systems  
-- 🔍 Open to: Software Engineering internships and full-time roles
+- 🌐 Portfolio: [dangkhoa241.github.io](https://dangkhoa241.github.io)
+- 💻 Tech: Java, JavaScript, Python, React.js, Next.js, Vue.js, Node.js, Express, Spring Boot, SQL, PostgreSQL, MongoDB
+- 🧠 Interests: Full-stack development, backend systems, databases, AI/LLM applications
+- 🌱 Currently learning: RAG pipelines, LLM-based systems, distributed backend design
+- 🔍 Open to: Software Engineering roles and new opportunities
 - 📫 How to reach me: dangkhoa2401bg@gmail.com
 
 
@@ -34,6 +35,7 @@ I enjoy building scalable web applications, working with databases, and solving 
 
 <p></p>
 
+[![Portfolio](https://img.shields.io/badge/-dangkhoa241.github.io-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dangkhoa241.github.io)](https://dangkhoa241.github.io)
 [![Facebook](https://img.shields.io/badge/-dangkhoa241-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/dangkhoa241)](https://facebook.com/dangkhoa241)
 [![GitHub](https://img.shields.io/badge/-dangkhoa241-success?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/in/dangkhoa241/)](https://github.com/dangkhoa241)
 [![Gmail](https://img.shields.io/badge/-dangkhoa2401bg-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/dangkhoa241/)](mailto:dangkhoa2401bg@gmail.com)
