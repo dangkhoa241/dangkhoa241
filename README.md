@@ -9,8 +9,8 @@
 
 I'm an MS Computer Science student at the University of the Pacific and a software engineer with experience in full-stack development, databases, and AI-powered applications.
 I enjoy building scalable web systems and data-driven tools, from backend APIs to LLM-based systems.
+🌐 My portfolio: [dangkhoa241.github.io](https://dangkhoa241.github.io)
 
-- 🌐 Portfolio: [dangkhoa241.github.io](https://dangkhoa241.github.io)
 - 💻 Tech: Java, JavaScript, Python, React.js, Next.js, Vue.js, Node.js, Express, Spring Boot, SQL, PostgreSQL, MongoDB
 - 🧠 Interests: Full-stack development, backend systems, databases, AI/LLM applications
 - 🌱 Currently learning: RAG pipelines, LLM-based systems, distributed backend design
