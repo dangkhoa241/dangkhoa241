@@ -5,20 +5,38 @@
   
 </p>
 
-# Hi 👋 I'm Khoa
+# Hi, I'm Khoa 👋
 
-I'm an MS Computer Science student at the University of the Pacific and a software engineer with experience in full-stack development, databases, and AI-powered applications.
-I enjoy building scalable web systems and data-driven tools, from backend APIs to LLM-based systems.
+**Software engineer & MS Computer Science student at University of the Pacific** (graduating December 2026).
+2+ years of professional full-stack experience building production systems for major Japanese retail chains.
+I build data platforms, full-stack web apps and LLM-powered tools, and I use AI coding agents
+(Claude Code) with a compare-and-review process to ship them fast and securely.
+
+📍 California, USA · 🔎 Open to Software Engineer / Data Engineer roles
+
+---
 
 🌐 My portfolio: [dangkhoa241.github.io](https://dangkhoa241.github.io)
 
-- 💻 Tech: Java, JavaScript, Python, React.js, Next.js, Vue.js, Node.js, Express, Spring Boot, SQL, PostgreSQL, MongoDB
-- 🧠 Interests: Full-stack development, backend systems, databases, AI/LLM applications
-- 🌱 Currently learning: RAG pipelines, LLM-based systems, distributed backend design
-- 🔍 Open to: Software Engineering roles and new opportunities
-- 📫 How to reach me: dangkhoa2401bg@gmail.com
+### 🛠️ Tech stack
 
+**Languages:** JavaScript, TypeScript, Python, Java, SQL, C++, C#
+**Frontend:** React, Next.js, Vue.js, Tailwind CSS, D3, ECharts, Highcharts
+**Backend:** Node.js, Express, Hono, Spring Boot, REST APIs
+**Data:** PostgreSQL, MongoDB, ClickHouse, Redis, DB2, MySQL, SQL Server
+**Cloud & DevOps:** AWS (Lambda, EventBridge, S3, SNS, IAM, CloudFormation/SAM), Docker, GitHub Actions, Vercel
+**Testing:** Vitest, Playwright, unit / integration / end-to-end tests in CI
+**AI/ML:** LLM integration, RAG, BERT fine-tuning, PyTorch, Claude Code
 
+---
+
+### 🌱 Currently
+
+- Building serverless data pipelines on AWS
+- Exploring LLM-based systems and AI-assisted software engineering
+- Looking for Software Engineer / Data Engineer opportunities
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,8 +49,6 @@ I enjoy building scalable web systems and data-driven tools, from backend APIs t
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="linux" width="40" height="40"/> </a>
   
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>        <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>         <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>        <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>                  <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  
-> ### <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="22" width="35">**Connect with me**
 
 <p></p>
 
