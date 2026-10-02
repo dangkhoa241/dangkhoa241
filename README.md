@@ -20,19 +20,13 @@ I build data platforms, full-stack web apps and LLM-powered tools, and I use AI 
 
 ### 🛠️ Tech stack
 
-**Languages:** JavaScript, TypeScript, Python, Java, SQL, C++, C#
-
-**Frontend:** React, Next.js, Vue.js, Tailwind CSS, D3, ECharts, Highcharts
-
-**Backend:** Node.js, Express, Hono, Spring Boot, REST APIs
-
-**Data:** PostgreSQL, MongoDB, ClickHouse, Redis, DB2, MySQL, SQL Server
-
-**Cloud & DevOps:** AWS (Lambda, EventBridge, S3, SNS, IAM, CloudFormation/SAM), Docker, GitHub Actions, Vercel
-
-**Testing:** Vitest, Playwright, unit / integration / end-to-end tests in CI
-
-**AI/ML:** LLM integration, RAG, BERT fine-tuning, PyTorch, Claude Code
+- **Languages:** JavaScript, TypeScript, Python, Java, SQL, C++, C#
+- **Frontend:** React, Next.js, Vue.js, Tailwind CSS, D3, ECharts, Highcharts
+- **Backend:** Node.js, Express, Hono, Spring Boot, REST APIs
+- **Data:** PostgreSQL, MongoDB, ClickHouse, Redis, DB2, MySQL, SQL Server
+- **Cloud & DevOps:** AWS (Lambda, EventBridge, S3, SNS, IAM, CloudFormation/SAM), Docker, GitHub Actions, Vercel
+- **Testing:** Vitest, Playwright, unit / integration / end-to-end tests in CI
+- **AI/ML:** LLM integration, RAG, BERT fine-tuning, PyTorch, Claude Code
 
 ---
 
