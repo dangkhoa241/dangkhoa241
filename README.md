@@ -14,9 +14,9 @@ I build data platforms, full-stack web apps and LLM-powered tools, and I use AI 
 
 📍 California, USA · 🔎 Open to Software Engineer / Data Engineer roles
 
----
-
 🌐 My portfolio: [dangkhoa241.github.io](https://dangkhoa241.github.io)
+
+---
 
 ### 🛠️ Tech stack
 
