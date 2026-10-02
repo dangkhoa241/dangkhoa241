@@ -21,11 +21,17 @@ I build data platforms, full-stack web apps and LLM-powered tools, and I use AI 
 ### 🛠️ Tech stack
 
 **Languages:** JavaScript, TypeScript, Python, Java, SQL, C++, C#
+
 **Frontend:** React, Next.js, Vue.js, Tailwind CSS, D3, ECharts, Highcharts
+
 **Backend:** Node.js, Express, Hono, Spring Boot, REST APIs
+
 **Data:** PostgreSQL, MongoDB, ClickHouse, Redis, DB2, MySQL, SQL Server
+
 **Cloud & DevOps:** AWS (Lambda, EventBridge, S3, SNS, IAM, CloudFormation/SAM), Docker, GitHub Actions, Vercel
+
 **Testing:** Vitest, Playwright, unit / integration / end-to-end tests in CI
+
 **AI/ML:** LLM integration, RAG, BERT fine-tuning, PyTorch, Claude Code
 
 ---
@@ -49,6 +55,8 @@ I build data platforms, full-stack web apps and LLM-powered tools, and I use AI 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="linux" width="40" height="40"/> </a>
   
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>        <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>         <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>        <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>                  <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+
+---
 
 <p></p>
 
